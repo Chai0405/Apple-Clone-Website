@@ -20,7 +20,7 @@ This project focuses on recreating Apple’s clean UI, layout structure, and smo
 [https://YOUR-NETLIFY-LINK.netlify.app](https://clone-1825.netlify.app/)
 
 ## 💻 Source Code
-
+https://github.com/Chai0405/Apple-Clone-Website.git
 
 ## 📂 Project Structure
 - index.html
